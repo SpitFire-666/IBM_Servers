@@ -16,3 +16,6 @@
 - Win7 needs RAID drivers
 
 ## Hypervisor USB port
+
+## Fans
+https://old.reddit.com/r/homelab/comments/aa3xj7/ibm_systemx_3650_m2_fan_speed_control/
