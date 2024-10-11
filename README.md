@@ -1,6 +1,6 @@
-# IBM Servers: info, troubleshooting, errors etc
+# IBM Servers | Info, troubleshooting, errors etc
 
-![image](https://github.com/user-attachments/assets/ea976104-a852-4bb5-8ba1-8a7b7178b9f3)
+![0 1F5E-2533874698](https://github.com/user-attachments/assets/eccc39ec-046e-4fc4-abe3-eafb17a3fa64)
 
 
 # Integrated Management Module (IMM)
