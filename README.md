@@ -1,5 +1,8 @@
 # IBM Servers: info, troubleshooting, errors etc
 
+![image](https://github.com/user-attachments/assets/ea976104-a852-4bb5-8ba1-8a7b7178b9f3)
+
+
 # Integrated Management Module (IMM)
 - Default username/password: ```USERID``` / ```PASSW0RD```
 - Default IP (if DHCP fails): 192.168.70.125
