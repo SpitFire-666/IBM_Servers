@@ -9,6 +9,10 @@
 - Use an older browser, Eg Firefox v50, which can be installed and run side by side with newer Firefox: https://ftp.mozilla.org/pub/firefox/releases/50.0.1/win64/en-US/Firefox%20Setup%2050.0.1.exe
 - Set IMM to use HTTPS
 
+## "UEFI Platform Initialization"
+- Use PSU#1 only (aka do not use PSU#2 by itself)
+- https://support.lenovo.com/us/en/solutions/ht110912-system-hangs-at-startup-with-message-uefi-platform-initialization-ibm-system-x
+
 ## Booting from USB
 - F12 is the boot menu key
 - GParted boots OK from USB, but DBAN, Windows struggles
